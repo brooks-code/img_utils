@@ -10,6 +10,20 @@
 
 > When I print pictures online or in shops, I'd sometime rather prefer keeping the original files for myself than seeing them released into the third-parties jungle. This script is basically a combination of commands I use and it will help you (partially) anonymize your pictures and also reduce their carbon footprint.
 
+## Table of contents
+
+- [JPEG B.atch R.esize, R.ename, and EXIF R.emoval script](#jpeg-batch-resize-rename-and-exif-removal-script)
+    - [Genesis](#genesis)
+  - [Table of contents](#table-of-contents)
+  - [Features](#features)
+  - [Dependencies](#dependencies)
+    - [Installation of the dependencies](#installation-of-the-dependencies)
+  - [Usage](#usage)
+  - [Warning](#warning)
+  - [Limitations](#limitations)
+  - [License](#license)
+    - [Limitation of liability](#limitation-of-liability)
+
 ## Features
 
 1. **Resize JPEG files**: Resizes all JPEG files in the current directory to 55% *(by default)* of their original size.
