@@ -3,7 +3,7 @@
 
 **BRRER-me! A tale of pixels and metadata.**
 
-![Banner Image](/img/photo_booth.png "A banner image depicting a kodak photo booth (Source Flickr).")
+![Banner Image](/img/photo_booth.jpg "A banner image depicting a kodak photo booth (Source Flickr).")
 *60s Kodak Fotomat drive through.*
 
 ### Genesis
