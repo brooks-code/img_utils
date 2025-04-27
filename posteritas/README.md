@@ -53,8 +53,8 @@ We provide **two modes**:
 
 ## Dependencies
 
-- [Python 3.x](https://www.python.org/downloads/)
-- [Pillow 9.5.0 (PIL fork)](https://python-pillow.org/)
+- Python 3.x
+- Pillow 9.5.0 (PIL fork)
 
 ## Installation
 
