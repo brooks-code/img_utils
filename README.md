@@ -17,8 +17,8 @@ This repository contains a collection of scripts and tools for working with imag
 
 The following utilities are currently available in this repository:
 
-* `BRRER.sh`: [A bash script](/jpeg_brrer/) for resizing and renaming images, as well as removing EXIF metadata *(added in Feb. 2025)*.
-* `posteritas`: [A python script](/posteritas/) for creating a poster mosaic from pictures located within a folder *(added in Apr. 2025)*.
+* `BRRER.sh`: [A bash script](https://github.com/brooks-code/jpeg-tidy) for resizing and renaming images, as well as removing EXIF metadata *(added in Feb. 2025)*.
+* `posteritas`: [A python script](https://github.com/brooks-code/posteritas) for creating a poster mosaic from pictures located within a folder *(added in Apr. 2025)*.
 * *more utilities will appear here as they are added to this repository.*
 
 ## Installation
