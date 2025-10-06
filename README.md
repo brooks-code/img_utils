@@ -23,13 +23,9 @@ The following utilities are currently available in this repository:
 
 ## Installation
 
-To use the utilities in this repository, download the folders containing the tools you're interested in or simply clone the whole repository to your local machine:
-
-```bash
-git clone https://github.com/brooks-code/img_utils.git
-```
+To use the utilities listed in this repository, download the folders containing the tools you're interested in or clone the concerned repository to your local machine and follow its installation instructions:
 
 ## License
 
-The scripts are provided under a Creative Commons CC0 license. See the [LICENSE](/LICENSE) file for details.
+The scripts are mostly provided under a Creative Commons CC0 license. See their file for details.
 Feel free to adapt these scripts according to your needs.
