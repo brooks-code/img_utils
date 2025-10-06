@@ -27,5 +27,5 @@ To use the utilities listed in this repository, download the folders containing 
 
 ## License
 
-The scripts are mostly provided under a Creative Commons CC0 license. See their file for details.
+The scripts are mostly provided under a Creative Commons CC0 license. See their license file for details.
 Feel free to adapt these scripts according to your needs.
